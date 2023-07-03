@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+ .op{
+        box-sizing: border-box;
+        width: 100%;
+        height: 650px;
+        margin-left: -200px;
+        margin-top: 200px;
+        background-color: #3498db;
+    }
+}
